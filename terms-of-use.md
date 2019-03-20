@@ -1,4 +1,4 @@
-# Terms of Usefor Alexa Skills
+# Terms of Use for Alexa Skills
 
 ## General
 
