@@ -16,7 +16,7 @@ We never collect or share personal data with our skills.
 
 To improve our services we analyze automatically how often utterances are spoken and other analytics. This is done automatically by Amazon in the Amazon Developer Portal.
 
-For some of our skills it is necessary to save data for you in our databases. This data is only connected to your Alexa-UserId but never to your name or any other 
+For some of our skills it is necessary to save data for you in our databases. This data is only connected to your Alexa-UserId but never to your name or any other personal information.
 
 ## Changes
 
